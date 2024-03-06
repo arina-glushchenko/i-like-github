@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-#include "circular_buffer.h"
-=======
 #include "../include/circular_buffer.h"
->>>>>>> 066a262c681c591eccc5c90d5aca1eea92cc1481
 #include <stdexcept>
 #include <string_view>
 #include <iostream>
